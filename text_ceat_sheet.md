@@ -1,7 +1,8 @@
+editing
+
 # 1.hEADINGS
 How to provide headimgs
 
-hello git 101
 
 # Heading 1
 ## Heading 2
